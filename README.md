@@ -1,1 +1,1 @@
-# wedding_panner
+# wedding_planner
